@@ -6,7 +6,7 @@ service:
   protocol: TCP
   type: ClusterIP
 image:
-  repository: techtrends
+  repository: mert436/techtrends:latest
   tag: latest
 replicaCount: 1
 resources:
