@@ -13,6 +13,11 @@ spec:
       valueFiles: 
         - values-prod.yaml
     path: helm
-    repoURL: https://github.com/mcanat843/projects-techtrends
+    repoURL: https://github.com/mcanat843/techtrends-projects.git
     targetRevision: HEAD
   # Sync policy
+
+
+
+
+
